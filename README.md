@@ -3,4 +3,4 @@ automatically annotate and/or summarize a schoology assignment
 
 live demo: https://youtu.be/YDGyyvQ9aDs
 
-![example image](/example.png "Example Image")
+![example image](/histexample.png "Example Image")
